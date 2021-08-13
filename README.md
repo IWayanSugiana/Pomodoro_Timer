@@ -1,5 +1,6 @@
 # Pomodoro_Timer
 -- Message from the creator --
+
 #this is my first personal project so maybe there will be 
  flaws and bugs in the code. So i really appreciate if 
  you can give me feedback or tell me if there is bug 
@@ -13,6 +14,7 @@
 
 
 -- Note --
+
 #you can add audio file for the alarm at timer.html file.
  all you need to do is change the audio path inside the audio
  tags to your currently audio file path. 
@@ -20,8 +22,9 @@
       resource folder so it will be more neat. 
 
 -- Special Thanks --
+
 #i want to say thankyou to: 
-   Audi - https://www.linkedin.com/in/audipasuatmadi/
-   Firman - https://www.linkedin.com/in/firman-ali/
+   -- Audi - https://www.linkedin.com/in/audipasuatmadi/
+   -- Firman - https://www.linkedin.com/in/firman-ali/
  For helping me when i stuck at some point when i develop
  this project, i really appreciate it ^_^
