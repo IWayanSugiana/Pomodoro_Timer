@@ -24,7 +24,7 @@
 -- Special Thanks --
 
 #i want to say thankyou to: 
-   Audi - https://www.linkedin.com/in/audipasuatmadi/ and 
+   Audi - https://www.linkedin.com/in/audipasuatmadi/ & 
    Firman - https://www.linkedin.com/in/firman-ali/
  For helping me when i stuck at some point when i develop
  this project, i really appreciate it ^_^
